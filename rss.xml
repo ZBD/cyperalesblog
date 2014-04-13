@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Cyperales Blog</title>
+    <description>Cyperales Blog</description>
+    <link></link>
+    <pubDate>2014-04-13</pubDate>
+    <item>
+      <title>About Me</title>
+      <link>/about-me</link>
+      <description>&lt;h1 id="toc_0"&gt;Cyperales Blog =D&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;well, it is a small step, to see the trends of marketing&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="toc_1"&gt;Marketing&lt;/h3&gt;
+</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>/archive</link>
+      <description>
+</description>
+    </item>
+    <item>
+      <title>Categories</title>
+      <link>/categories</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>/</link>
+      <description>## Hello, I just setup, more will come!
+
+
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>/pages</link>
+      <description>
+&lt;ul&gt;
+  
+    &lt;li&gt;&lt;a href="/about-me"&gt;About Me&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li class="active"&gt;&lt;a href="/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+  
+  
+  
+    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>/tags</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+ 
+</description>
+    </item>
+  </channel>
+</rss>

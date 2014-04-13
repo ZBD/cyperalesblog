@@ -1,0 +1,15 @@
+title : Cyperales Blog
+tagline: Site Tagline
+author :
+  name : Dan Mu
+  email : cyperales@gmail.com
+  github : username
+  twitter : username
+  feedburner : feedname
+
+navigation :
+  - archive
+  - tags
+  - categories
+  - pages
+  - about
